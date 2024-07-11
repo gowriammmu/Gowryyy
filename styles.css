@@ -1,0 +1,32 @@
+h1{color: cadetblue;
+ background-color:beige;
+
+
+
+
+}
+
+h2{color: darkgrey;
+   font-size: 20px;
+   background-color: aliceblue;  
+}
+
+strong{background-color: beige;}
+
+body{background: url(plant.jpeg);
+          background-position: no-repeat;
+}
+
+p{background-color: antiquewhite;}
+
+em{background-color: azure;}
+
+a{background-color: cadetblue;
+    color: black; 
+}
+
+.special-heading{
+    color: black;
+}
+
+#heading-style{color: coral;}

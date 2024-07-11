@@ -1,0 +1,16 @@
+h1{color: cadetblue;
+    background-color: blanchedalmond;
+}
+
+h2{color: cornflowerblue;
+    background-color: gainsboro;
+}
+
+#special{
+    color: chocolate;
+    background-color: antiquewhite;
+}
+
+body{background: url(template.jpg)}
+
+#extra{background-color: seashell;}
